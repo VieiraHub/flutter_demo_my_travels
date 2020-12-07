@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "750917779675",
+    "firebase_url": "https://mytravels-e7ac3.firebaseio.com",
+    "project_id": "mytravels-e7ac3",
+    "storage_bucket": "mytravels-e7ac3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750917779675:android:a670e0344de24e7cf64cfe",
+        "android_client_info": {
+          "package_name": "com.my_travels"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750917779675-ht9l80k9of2j07dgn4klnpp973bfpn24.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIAYcWJT2FWZADGhYY-GqQ7clmxh8XtRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750917779675-ht9l80k9of2j07dgn4klnpp973bfpn24.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
